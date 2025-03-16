@@ -1,6 +1,6 @@
 ---
 name: task
-about: task
+about: 작업(Task)
 title: ''
 labels: ''
 assignees: ''

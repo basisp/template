@@ -1,6 +1,6 @@
 ---
-name: Bug
-about: bug report
+name: bug
+about: 버그 보고(Bug Report)
 title: ''
 labels: ''
 assignees: ''
