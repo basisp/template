@@ -1,20 +1,3 @@
----
-name: bug
-about: 버그 보고(Bug Report)
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: 버그 보고(Bug Report)
-about: 버그 발생 시 알리는 템플릿입니다. 보통 바로 수정할 게 아니기에, 재현가능하게 적어야 합니다.
-title: ''
-labels: ''
-assignees: ''
----
-
 ## 🐞 버그 설명
 
 > 버그가 무엇인지 간단히 요약해주세요. 예: "로그인 버튼이 클릭되지 않음"
