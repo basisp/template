@@ -1,20 +1,3 @@
----
-name: task
-about: 작업(Task)
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: 작업(Task)
-about: '기능 요청사항에 대한 세분화한, 실제 개발 단위인 Task에 관한 문서입니다. '
-title: ''
-labels: ''
-assignees: ''
----
-
 ## 📌 작업 제목
 
 > 작업의 이름을 간단히 적어주세요. 예: "헤더 컴포넌트 구현"
